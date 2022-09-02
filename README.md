@@ -15,5 +15,5 @@ Explanation of the game mechanics can be found [here](https://en.wikipedia.org/w
 
 ## Screenshot
 add screenshot
-1. [Screenshot](Screenshot 2022-09-02 at 10.22.08 AM.png)
-2. [Screenshot](Screenshot 2022-09-02 at 10.22.25 AM.png)
+![Screenshot](Screenshot 2022-09-02 at 10.22.08 AM.png)
+![Screenshot](Screenshot 2022-09-02 at 10.22.25 AM.png)
